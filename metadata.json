@@ -1,0 +1,10 @@
+{
+  "name": "Stop Mate",
+  "description": "A futuristic, AI-powered smart travel alarm and safety application. Features proximity alarms, Guardian mode, SOS, and community live tracking.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
